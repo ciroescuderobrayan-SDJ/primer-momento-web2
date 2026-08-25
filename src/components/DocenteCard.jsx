@@ -1,3 +1,5 @@
+import "./DocenteCard.css";
+
 function DocenteCard({ docente }) {
   return (
     <div className="docente-card">
